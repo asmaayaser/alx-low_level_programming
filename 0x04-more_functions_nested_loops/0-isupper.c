@@ -1,7 +1,7 @@
 #include "main.h"
 /**
-*isupper -uppercase letters
-@c character
+* _isupper -uppercase letters
+* @c: is input character
 * Return: return 0 or 1
 */
 int _isupper(int c)
